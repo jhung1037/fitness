@@ -1,3 +1,5 @@
-Credit: https://github.com/mahdinazmi/Flutter-Basics
+Demo Screenshot:
 
-![Demo](Demo.png)
+<img src="Demo.png" alt="demo_screenshot" width="200">
+
+Credit: https://github.com/mahdinazmi/Flutter-Basics
